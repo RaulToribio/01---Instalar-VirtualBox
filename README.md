@@ -22,17 +22,17 @@ Clic en “Next”.
 
 Clic en “Next”.
 
-![Clic en “Next”.](https://raw.githubusercontent.com/RaulToribio/01-Instalar-VirtualBox/main/Im%C3%A1genes/Instalar%20VirtualBox%20(6).png)
+![Clic en “Yes”.](https://raw.githubusercontent.com/RaulToribio/01-Instalar-VirtualBox/main/Im%C3%A1genes/Instalar%20VirtualBox%20(6).png)
 
-Clic en “Next”.
+Clic en “Yes”.
 
 ![Clic en “Yes”.](https://raw.githubusercontent.com/RaulToribio/01-Instalar-VirtualBox/main/Im%C3%A1genes/Instalar%20VirtualBox%20(7).png)
 
 Clic en “Yes”.
 
-![Clic en “Next”.](https://raw.githubusercontent.com/RaulToribio/01-Instalar-VirtualBox/main/Im%C3%A1genes/Instalar%20VirtualBox%20(8).png)
+![Clic en “Install”.](https://raw.githubusercontent.com/RaulToribio/01-Instalar-VirtualBox/main/Im%C3%A1genes/Instalar%20VirtualBox%20(8).png)
 
-Clic en “Next”.
+Clic en “Install”.
 
 ![Clic en “Finish”.](https://raw.githubusercontent.com/RaulToribio/01-Instalar-VirtualBox/main/Im%C3%A1genes/Instalar%20VirtualBox%20(9).png)
 
