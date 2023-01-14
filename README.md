@@ -1,5 +1,3 @@
-# 01-Instalar-VirtualBox
-
 # Introducción
 
 Oracle VM VirtualBox (conocido generalmente como VirtualBox) es un software de virtualización. Actualmente es desarrollado por Oracle Corporation como parte de su familia de productos de virtualización. Por medio de esta aplicación es posible instalar sistemas operativos adicionales, conocidos como «sistemas invitados», dentro de otro sistema operativo «anfitrión», cada uno con su propio ambiente virtual.
@@ -64,12 +62,6 @@ Se abrirá el programa de VirtualBox en la versión 7.0.4.
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
-> 
-
-> [María Paulina Chirino Velázquez](https://github.com/Chirino-V)
-> 
-
-> [Eduardo Vázquez Pérez](https://github.com/eddkentuchi)
 > 
 
 > [Codigo IoT](https://github.com/codigo-iot)
