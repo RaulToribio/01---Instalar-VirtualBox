@@ -63,10 +63,6 @@ Clic en “Finish”.
 
 Se abrirá el programa de VirtualBox en la versión 7.0.4.
 
-# Evidencias
-
-![https://github.com/RaulToribio/01-Instalar-VirtualBox/blob/main/Im%C3%A1genes/Instalar%20VirtualBox%20(10).png?raw=true](https://github.com/RaulToribio/01-Instalar-VirtualBox/blob/main/Im%C3%A1genes/Instalar%20VirtualBox%20(10).png?raw=true)
-
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
