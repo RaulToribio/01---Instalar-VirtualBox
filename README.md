@@ -1,5 +1,3 @@
-# 01-Instalar-VirtualBox
-
 # Introducción
 
 VirtualBox es un software de virtualización de sistemas de código abierto desarrollado por Oracle. Permite crear y ejecutar máquinas virtuales en una computadora, permitiendo que varios sistemas operativos diferentes se ejecuten en una sola máquina física. Con VirtualBox, puedes crear una máquina virtual y configurar su hardware, como la cantidad de memoria y los dispositivos de entrada y salida, y luego instalar un sistema operativo diferente en ella.
