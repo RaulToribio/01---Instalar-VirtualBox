@@ -1,8 +1,17 @@
+# 01-Instalar-VirtualBox
+
 # Introducción
 
-Oracle VM VirtualBox (conocido generalmente como VirtualBox) es un software de virtualización. Actualmente es desarrollado por Oracle Corporation como parte de su familia de productos de virtualización. Por medio de esta aplicación es posible instalar sistemas operativos adicionales, conocidos como «sistemas invitados», dentro de otro sistema operativo «anfitrión», cada uno con su propio ambiente virtual.
+VirtualBox es un software de virtualización de sistemas de código abierto desarrollado por Oracle. Permite crear y ejecutar máquinas virtuales en una computadora, permitiendo que varios sistemas operativos diferentes se ejecuten en una sola máquina física. Con VirtualBox, puedes crear una máquina virtual y configurar su hardware, como la cantidad de memoria y los dispositivos de entrada y salida, y luego instalar un sistema operativo diferente en ella.
 
-[Wikipedia (2023)](https://es.wikipedia.org/wiki/VirtualBox)
+VirtualBox es un software multiplataforma, lo que significa que esta disponible para varios sistemas operativos, como Windows, MacOS y Linux. Además, es compatible con una gran cantidad de sistemas operativos invitados, incluyendo Windows, Linux, MacOS, Solaris, y muchos otros.
+
+Algunas de las características adicionales de VirtualBox incluyen:
+
+- Soporte para USB y dispositivos de red virtuales
+- Copia de seguridad y restauración de máquinas virtuales
+- Opciones de configuración avanzadas para ajustar el rendimiento de la máquina virtual.
+- Compatibilidad con diferentes formatos de almacenamiento como VDI, VMDK, VHD, y VHDX.
 
 # Material Necesario
 
